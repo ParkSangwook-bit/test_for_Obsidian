@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7812d0d8679ee49d",
+        "id": "280e221d15882b98",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,13 +16,13 @@
         }
       },
       {
-        "id": "f77ad738151b4421",
+        "id": "f73ab6cd93119be9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "무제노트.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#안녕하세요",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,6 +140,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c9c25d5f1bf3d88",
-  "lastOpenFiles": []
+  "active": "f73ab6cd93119be9",
+  "lastOpenFiles": [
+    "무제노트.md"
+  ]
 }
